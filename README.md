@@ -1,6 +1,6 @@
 # [TWO-TORIAL](https://two-torial.xyz)'s Spice2x Patcher
 
-### URL: `https://sp2x.two-torial.xyz/`
+### URL: `https://square3ang.github.io/sp2xpatcher/`
 ### [Supported Games](SUPPORTED.md)
 ### [Join our Discord!](https://discord.gg/cZRUmEPK78)
 
